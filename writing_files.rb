@@ -1,7 +1,7 @@
 # opens file to read and write
 # File.open('friends.txt', 'r+') do |file|
 #     file.readline()
-#     file.write('Hi') # this will overrride the second line
+#     file.write('Hi') # this will override the second line
 # end
 
 # File.open('friends.txt', 'a') do |file|    
